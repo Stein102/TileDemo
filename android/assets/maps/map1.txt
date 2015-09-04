@@ -1,0 +1,19 @@
+DEFINE PROPERTIES
+name:test map
+x:10
+y:10
+DEFINE TILES
+[name:grass,path:grass.png]
+DEFINE LAYER
+name:test
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+

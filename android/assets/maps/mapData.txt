@@ -1,0 +1,19 @@
+DEFINE PROPERTIES
+name:test map
+x:10
+y:10
+DEFINE TILES
+[name:grass,path:isograss1.png]
+[name:cube,path:redcube.png]
+DEFINE LAYER
+name:test
+cube,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
