@@ -1,8 +1,6 @@
 
 package com.jesse.tiledemo.mapsystem;
 
-import java.awt.Point;
-
 public class MapLayer {
     private int depth;
     private String layerName;

@@ -28,7 +28,7 @@ public class TileDemo extends ApplicationAdapter {
 		camera.update();
 
 		try {
-			map = MapLoader.loadMap("map1.txt");
+			map = MapLoader.loadMap("map1");
 			renderer = new MapRenderer(batch, map);
 		} catch (Exception e) {
 			e.printStackTrace();
